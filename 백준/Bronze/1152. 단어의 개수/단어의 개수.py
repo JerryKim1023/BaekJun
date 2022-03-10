@@ -1,2 +1,3 @@
-list = input().split()
-print(len(list))
+a = input().strip()
+a = a.split()
+print(len(a))
